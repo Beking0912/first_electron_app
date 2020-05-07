@@ -1,2 +1,2 @@
-# first_-electron_app
+# first_electron_app
 🔘 Electron应用练习
